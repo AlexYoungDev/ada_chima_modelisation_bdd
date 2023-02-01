@@ -1,9 +1,9 @@
 ### Modéliser une base de données
 
 Nous allons opter de modéliser notre base de données en trois étapes : <br> 
-- le Modèle Conceptuel de données (MCD - Verbes) 
-- le Modèle Logique de données (MLD - Cardinalités)
-- le Modèle Physique de données (MPD - Relations)
+- le Modèle Conceptuel de données (MCD) 
+- le Modèle Logique de données (MLD)
+- le Modèle Physique de données (MPD)
 
 #### 🐶 Contexte
 
